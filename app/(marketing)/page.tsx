@@ -355,7 +355,7 @@ export default function Page() {
 
                         {/* Subheading */}
                         <p className="mt-6 text-lg md:text-xl text-gray-500 max-w-2xl mx-auto leading-relaxed animate-fade-in-up delay-200">
-                            Keepr is an all-in-one workspace where notes, documents, tasks,
+                            Keepr is an all-in-one workspace where notes, documents, tasks,lecture,socialmedia content, scheduling
                             projects, databases, and AI agents coexist. One platform to replace them all.
                         </p>
 
